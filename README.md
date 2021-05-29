@@ -1,4 +1,4 @@
 # project
 blog
 
-hi I'm Sojeong.
+hi I'm Sojeong
